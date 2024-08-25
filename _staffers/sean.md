@@ -1,6 +1,6 @@
 ---
 name: Sean Yu (he/him/his)
-role: Lead GSI
+role: Teaching Assistant
 email: 
 website: 
 photo: https://ph142-ucb.github.io/fa24/img/sean.jpg
