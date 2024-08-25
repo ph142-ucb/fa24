@@ -1,14 +1,19 @@
 ---
 title: Week 11
 days:
-  - date: 2024-03-25
+  - date: 2022-11-04
     events:
-      "**No Lecture**{: .label .label-lec} Spring Break":
-  - date: 2024-03-27
+      "**Lecture 27**{: .label .label-lec} Comparing Two Proportions ":
+        "Ch. 20"
+  - date: 2022-11-06
     events:
-      "**No Lecture**{: .label .label-lec} Spring Break":
-  - date: 2024-03-29
+      "**Lecture 28**{: .label .label-lec} Bootstrapping Confidence Intervals ": 
+      
+  - date: 2022-11-08
     events:
-      "**No Lecture**{: .label .label-lec} Spring Break":
+      "**Lecture 29**{: .label .label-lec} The Chi-square Test for Goodness of Fit ":
+        "Ch. 21"
+      
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 5:00 PM PST)":
 ---
 

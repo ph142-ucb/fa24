@@ -1,15 +1,15 @@
 ---
 title: Week 16 (RRR Week)
 days:
-  - date: 2024-04-29
+  - date: 2022-12-09
     events:
       "**No Lecture**{: .label .label-lec}":
-      "**Participation**{: .label .label-parti} Meet with your GSI before submitting Part III ":
-  - date: 2024-05-01
+      
+  - date: 2022-12-11
     events:
       "**No Lecture**{: .label .label-lec}":
-  - date: 2024-05-03
+
+  - date: 2022-12-13
     events:   
-       "**No Lecture**{: .label .label-lec}": 
-       "**Course Evaluation**{: .label .label-parti} Screenshot due [(to Gradescope)](https://www.gradescope.com/courses/704333/assignments/4364385) for extra credit ":      
+       "**No Lecture**{: .label .label-lec}":       
 ---
