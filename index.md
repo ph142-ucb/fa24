@@ -28,7 +28,7 @@ We will not be updating this page with announcements. For the latest announcemen
 - **Location**: Internet/Online
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
 - **Course number**: 30519
-- **Email for non-content inquiries**: [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu)
+- **Email for non-content inquiries**: [ph142fa24@berkeley.edu](mailto:ph142fa24@berkeley.edu)
 
 ## Goals
 

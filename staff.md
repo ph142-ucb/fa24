@@ -9,7 +9,7 @@ description: A listing of all the course staff members.
 
 For lab section and office hour schedules for each GSI, see the [calendar]({{ site.baseurl }}/calendar).
 
-## Instructor
+## Instructors
 
 <div class="role">
   {% assign instructors = site.staffers | where: 'role', 'Instructor' %}

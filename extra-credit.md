@@ -8,10 +8,13 @@ description: >-
 # Extra Credit
 {: .no_toc }
 
-Would you like to earn some points back in the class? Throughout the course we provide examples of statistical information in the scientific and popular press. You may choose to provide an analysis and discussion of a recently published scientific article which is also covered in the popular press, or a critique and explanation of a study that you found personally compelling. **You may earn up to 2% of your course grade back through extra credit.** 
+Would you like to earn some points back in the class? Check back here later in the semester to see what extra credit opportunities are offered. 
+<!-- Throughout the course we provide examples of statistical information in the scientific and popular press. You may choose to provide an analysis and discussion of a recently published scientific article which is also covered in the popular press, or a critique and explanation of a study that you found personally compelling. **You may earn up to 2% of your course grade back through extra credit.** 
 
-<!-- Out of the four different EC opportunities, please pick two to complete. You're more than welcome to do more than two, but you will only receive credit for two for an additional 1% to your final grade (for each EC assignment). -->
 
+Out of the four different EC opportunities, please pick two to complete. You're more than welcome to do more than two, but you will only receive credit for two for an additional 1% to your final grade (for each EC assignment). -->
+
+<!--
 <details open markdown="block">
   <summary>
     Extra Credit Assignments
@@ -30,7 +33,7 @@ a critical eye. We particularly hope that you will be able to apply this skill t
 relevant to decisions you or people you care about.
 
 <iframe src="https://ph142-ucb.github.io/sp24/src/ec/ec-compelling-study_sp24.pdf" width="100%" height="800"></iframe>
-
+-->
 <hr> 
 
 <!-- ## Extra Credit - Statistical Humor
@@ -53,6 +56,7 @@ solution guide corresponding to topics covered during that lecture.
 
 <hr> -->
 
+<!--
 ## Extra Credit - Statistics is Everywhere
 
 Throughout the term, we have (and will continue to) include a recurring “Statistics is Everywhere” segment,
@@ -65,5 +69,6 @@ statistical information, and to share your critical thinking with others.
 For this extra credit assignment, we are asking you to provide your own “Statistics is Everywhere” example
 and demonstrate this kind of critical thinking
 
-<iframe src="https://ph142-ucb.github.io/sp24/src/ec/ec-statistics-is-everywhere_sp24.pdf" width="100%" height="800"></iframe>
+<iframe src="https://ph142-ucb.github.io/sp24/src/ec/ec-statistics-is-everywhere_sp24.pdf" width="100%" height="800"></iframe> 
 
+-->
