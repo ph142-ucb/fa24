@@ -1,7 +1,7 @@
 ---
 title: Week 17 (Finals Week)
 days:
-  - date: 2022-12-16
+  - date: 2024-12-16
     events:
       "**Exam**{: .label .label-exam} **Final Exam**":
 ---

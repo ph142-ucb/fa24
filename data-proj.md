@@ -19,16 +19,19 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 - Please refer to the [Dataset Criteria](https://docs.google.com/document/d/1rV8MwHR8yLP1fM780hXVD1VS80QKJlBswcKhhmUh6SE/edit?usp=sharing) to ensure you are using a valid dataset!
 - You can find the rubric for Part 1 of the Data Project [here](https://docs.google.com/document/d/1_9VLmLDYjhxRNm4tJaLvnecZ61H8Am9U5TVKglhvdAs/edit).
 
+<!--
+[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/sp24/src/dp/part2-instructions_sp23.pdf) 
 
-[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/sp24/src/dp/part2-instructions_sp23.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 2 of the Data Project [here](https://docs.google.com/document/d/12q6hWIeihG5R5G2Kvl7nCVb3VwdQMsdKumjyHptkR4s/edit?usp=sharing).
 
+## Data Skills Demonstration Project Part II
+<iframe src="https://ph142-ucb.github.io/fa24/src/dp/part2-instructions_fa24.pdf" width="100%" height="800"></iframe> 
 
 [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/sp24/src/dp/part3-instructions_sp23.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/1bbfUH-jNchqAgElcLBRzL5lMizuU0RZPJfP4yUQbhXY/edit?usp=sharing).
-
+-->
 
 <hr>
 
@@ -36,9 +39,9 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 - **Confirmation Checklist is due February 16th at 11:59 pm PST**
 
-- **Part I is due on February 27th at 10:00 PM PST**
-- **Part II is due on April 1st at 11:59 PM PST**
-- **Part III is due on May 6th at 12:00 PM PST (noon)**
+- **Part I is due on October 11th at 10:00 PM PST**
+- **Part II is due on November 8th at 11:59 PM PST**
+- **Part III is due on December 6th at 12:00 PM PST (noon)**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
@@ -79,13 +82,8 @@ Because we are asking you to provide some visualizations and use the same datase
 There are a few ways you can contact your GSI:
 
 1. Create a private post on Ed with your question(s)/images and tag your assigned GSI (Example: @Paula Marquez)
-2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/sp24/calendar/)
+2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/fa24/calendar/)
 3. Email [ph142fa24@berkeley.edu](mailto:ph142fa24@berkeley.edu) with the subject line "[Data Project] GSI ________ - ..."
 
 GSI's will do their best to respond to all emails/posts within 24 hours.
 
-<!---
-## Data Skills Demonstration Project Part II
-
-<iframe src="https://ph142-ucb.github.io/sp24/src/dp/part2-instructions_sp23.pdf" width="100%" height="800"></iframe> 
--->

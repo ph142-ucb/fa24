@@ -9,10 +9,12 @@ description: >-
 {: .no_toc }
 
 Would you like to earn some points back in the class? Check back here later in the semester to see what extra credit opportunities are offered. 
-<!-- Throughout the course we provide examples of statistical information in the scientific and popular press. You may choose to provide an analysis and discussion of a recently published scientific article which is also covered in the popular press, or a critique and explanation of a study that you found personally compelling. **You may earn up to 2% of your course grade back through extra credit.** 
+<!-- 
+Throughout the course we provide examples of statistical information in the scientific and popular press. You may choose to provide an analysis and discussion of a recently published scientific article which is also covered in the popular press, or a critique and explanation of a study that you found personally compelling. **You may earn up to 2% of your course grade back through extra credit.** 
 
 
-Out of the four different EC opportunities, please pick two to complete. You're more than welcome to do more than two, but you will only receive credit for two for an additional 1% to your final grade (for each EC assignment). -->
+Out of the four different EC opportunities, please pick two to complete. You're more than welcome to do more than two, but you will only receive credit for two for an additional 1% to your final grade (for each EC assignment). 
+-->
 
 <!--
 <details open markdown="block">

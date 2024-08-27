@@ -1,15 +1,15 @@
 ---
 title: Week 4
 days:
-  - date: 2022-09-16
+  - date: 2024-09-16
     events:
       "**Lecture 8**{: .label .label-lec} Samples and Observational Studies ":
         "Ch. 6"
-  - date: 2022-09-18
+  - date: 2024-09-18
     events:
       "**Lecture 9**{: .label .label-lec} Live Exercise: Sampling Births from US Territories ": 
       "**Lab**{: .label .label-lab} Midterm 1 Review Session ":
-  - date: 2022-09-20
+  - date: 2024-09-20
     events:
       "**Lecture 10**{: .label .label-lec} Designing Experiments ":
         "Ch. 7"

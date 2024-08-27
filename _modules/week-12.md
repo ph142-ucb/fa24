@@ -1,16 +1,16 @@
 ---
 title: Week 12
 days:
-  - date: 2022-11-11
+  - date: 2024-11-11
     events:
       "**No Class Veterans Day**":
     
-  - date: 2022-11-13
+  - date: 2024-11-13
     events:
       "**Lecture 30**{: .label .label-lec} The Chi-square Test for Two-way Tables ":
         "Ch. 22" 
       
-  - date: 2022-11-15
+  - date: 2024-11-15
     events:
       "**Lecture 31**{: .label .label-lec} Permutation Tests ":
 ---
