@@ -8,7 +8,9 @@ days:
   - date: 2024-11-13
     events:
       "**Lecture 30**{: .label .label-lec} The Chi-square Test for Two-way Tables ":
-        "Ch. 22" 
+        "Ch. 22"
+      "**Lab 10**{: .label .label-lab} Chi-Squared Testing (Due Nov 15th)":
+      "**Homework 10**{: .label .label-hw}": 
       
   - date: 2024-11-15
     events:

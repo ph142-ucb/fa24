@@ -9,6 +9,8 @@ days:
     events:
       "**Lecture 20**{: .label .label-lec} Hypothesis Tests for a Mean with Known Standard Deviation ": 
         "Ch. 15"
+      "**Lab 7**{: .label .label-lab} Confidence Intervals and P-Hacking (Due Oct 18th)":
+      "**Homework 7**{: .label .label-hw}":
       
   - date: 2024-10-18
     events:

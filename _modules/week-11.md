@@ -7,7 +7,9 @@ days:
         "Ch. 20"
   - date: 2024-11-06
     events:
-      "**Lecture 28**{: .label .label-lec} Bootstrapping Confidence Intervals ": 
+      "**Lecture 28**{: .label .label-lec} Bootstrapping Confidence Intervals ":
+      "**Lab 9**{: .label .label-lab} Inference for Proportions (Due Nov 8th)":
+      "**Homework 9**{: .label .label-hw}": 
       
   - date: 2024-11-08
     events:

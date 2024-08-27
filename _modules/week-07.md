@@ -8,7 +8,9 @@ days:
       "**Participation**{: .label .label-parti} Mid Semester Feedback Survey ":
   - date: 2024-10-09
     events:
-      "**Lecture 17**{: .label .label-lec} The Poisson Distribution ": 
+      "**Lecture 17**{: .label .label-lec} The Poisson Distribution ":
+      "**Lab 6**{: .label .label-lab} Screening and Precision Public Health (Due Oct 11th)":
+      "**Homework 6**{: .label .label-hw}": 
       
   - date: 2024-10-11
     events:

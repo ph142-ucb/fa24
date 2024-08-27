@@ -8,6 +8,8 @@ days:
     events:
       "**Lecture 14**{: .label .label-lec} The Normal Distribution Part I ": 
         "Ch. 11"
+      "**Lab 5**{: .label .label-lab} Independence, Screening, and Normal Distribution (Due Oct 4th)":
+      "**Homework 5**{: .label .label-hw}":
       
   - date: 2024-10-04
     events:

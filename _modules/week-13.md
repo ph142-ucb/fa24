@@ -7,7 +7,8 @@ days:
         "Ch. 23"
   - date: 2024-11-20
     events:
-      "**Lecture 33**{: .label .label-lec} Inference for Regression II": 
+      "**Lecture 33**{: .label .label-lec} Inference for Regression II":
+      "**Lab 11**{: .label .label-lab} Inference for Regression (Due Nov 22nd)":
       
   - date: 2024-11-22
     events:

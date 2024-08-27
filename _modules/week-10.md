@@ -9,6 +9,8 @@ days:
     events:
       "**Lecture 25**{: .label .label-lec} Matched Comparisons ": 
         "Ch. 17"
+      "**Lab 8**{: .label .label-lab} T-Tests (Due Nov 1st)":
+      "**Homework 8**{: .label .label-hw}":
       
   - date: 2024-11-01
     events:
