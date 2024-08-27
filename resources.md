@@ -6,12 +6,13 @@ description: Resources for students
 ---
 # Resources
 
+- [Lab Section Materials](https://drive.google.com/drive/u/2/folders/1uAVWJuQRHzygMkhtEYxUIZAFDu69ysiu)
 - [PH 142 Course Overview Interactive Presentation](https://prezi.com/p/xpqdo6z9nbhw/learning-from-data/)
 - [FAQs and Common Errors](https://ph142-ucb.github.io/fa24/src/resources/faq/)
 - [PH 142 R Cheat Sheet](https://docs.google.com/document/d/1mVhjngYDDcrlOvaBB5SfuKaU3O1btxZU45BOj0DXc48/edit#) 
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 - [Data Visualization Cheatsheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
-- [Lab Notes & Quick Checks](https://docs.google.com/document/d/1mzU-mUZRzfSP5I1XY0tTvm5EfVqJfd9EBZgEpLFlIzo/edit#heading=h.4im559r5sk9y)
+
 - [Distribution Visualization App](https://geneho.shinyapps.io/oomphstat-v2/_w_ff2f84d7/_w_c7a34e2e/)
 
 <hr>
