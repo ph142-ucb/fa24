@@ -3,7 +3,7 @@ title: Week 3
 days:
   - date: 2024-09-09
     events:
-    "**Lecture 5**{: .label .label-lec} Exploring Relationships Between Two Variables ":
+      "**Lecture 5**{: .label .label-lec} Exploring Relationships Between Two Variables ":
         "Ch. 3"
 
   - date: 2024-09-11
