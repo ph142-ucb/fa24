@@ -3,7 +3,7 @@ title: Week 12
 days:
   - date: 2024-11-11
     events:
-      "**No Class Veterans Day**":
+      "**No Class: Veterans Day**":
     
   - date: 2024-11-13
     events:

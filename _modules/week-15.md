@@ -7,7 +7,7 @@ days:
   - date: 2024-12-04
     events:
       "**Lecture 37**{: .label .label-lec} Regression Modeling with a Categorical Exposure":
-      "**Lab**{: .label .label-lab} Final Exam Review":
+      "**Lab**{: .label .label-lab} Final Exam Review Session":
   - date: 2024-12-06
     events:
      "**Lecture 38**{: .label .label-lec} Final Exam Review":

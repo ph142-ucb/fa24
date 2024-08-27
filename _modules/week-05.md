@@ -3,7 +3,7 @@ title: Week 5
 days:
   - date: 2024-09-23
     events:
-      "**Exam**{: .label .label-exam} Midterm 1":
+      "**Exam**{: .label .label-exam} **Midterm 1**":
 
   - date: 2024-09-25
     events:

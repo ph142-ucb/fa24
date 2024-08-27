@@ -8,8 +8,8 @@ days:
   - date: 2024-10-23
     events:
       "**Lecture 23**{: .label .label-lec} Inference for a Population Mean with Unknown Standard Deviation ": 
-      "**Lab**{: .label .label-lab} Midterm 2 Review ":
+      "**Lab**{: .label .label-lab} Midterm 2 Review Session":
   - date: 2024-10-25
     events:
-      "**Exam**{: .label .label-exam} Midterm 2":
+      "**Exam**{: .label .label-exam} **Midterm 2**":
 ---
