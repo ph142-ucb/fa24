@@ -1,5 +1,5 @@
 ---
-title: Week 16 (RRR Week)
+title: Week 16
 days:
   - date: 2024-12-09
     events:

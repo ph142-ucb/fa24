@@ -1,5 +1,5 @@
 ---
-title: Week 17 (Finals Week)
+title: Week 17
 days:
   - date: 2024-12-16
     events:

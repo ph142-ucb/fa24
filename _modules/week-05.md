@@ -4,6 +4,7 @@ days:
   - date: 2024-09-23
     events:
       "**Exam**{: .label .label-exam} **Midterm 1**":
+      "**No Lecture**{: .label .label-purple}":
 
   - date: 2024-09-25
     events:
