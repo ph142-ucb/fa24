@@ -14,6 +14,6 @@ days:
   - date: 2024-08-30
     events:
       "**Lecture 2**{: .label .label-lec} Working with Data in R and Rstudio ":
-      "**Quiz 1**{: .label .label-quiz}":
+      "**Quiz 1**{: .label .label-quiz} Due 11:59pm on [Gradescope](https://www.gradescope.com/courses/833518)":
       
 ---

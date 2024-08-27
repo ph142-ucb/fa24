@@ -16,5 +16,5 @@ days:
     events:
       "**Lecture 18**{: .label .label-lec} Sampling Distributions for a Mean and Proportion; Central Limit Theorem ":
         "Ch. 13"
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 5:00 PM PST)":
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
 ---

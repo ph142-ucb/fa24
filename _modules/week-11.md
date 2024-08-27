@@ -16,6 +16,6 @@ days:
       "**Lecture 29**{: .label .label-lec} The Chi-square Test for Goodness of Fit ":
         "Ch. 21"
       
-      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 5:00 PM PST)":
+      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
 ---
 
