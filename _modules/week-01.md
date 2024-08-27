@@ -1,9 +1,9 @@
 ---
 title: Week 1
 days:
-  - date: 
+  - date: 2024-08-26
     events:
-      "**Participation**{: .label .label-parti} Needs Assessment ":
+      "**No Lecture**{: .label .label-purple} ":
 
   - date: 2024-08-28
     events:
