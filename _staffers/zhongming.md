@@ -6,6 +6,6 @@ website:
 photo: https://ph142-ucb.github.io/fa24/img/zhongming.jpg
 ---
 
-Hi everyone...!
+My name is Zhongming and I am a first year Biostatistics PhD student.
 
-Also fluent in: ...
+Also fluent in: Mandarin
