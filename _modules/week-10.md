@@ -16,5 +16,6 @@ days:
     events:
       "**Lecture 26**{: .label .label-lec} Inference for a Population Proportion ":
         "Ch. 19"
+      "**Participation**{: .label .label-parti} Data Project GSI Check-In":
       
 ---

@@ -14,5 +14,6 @@ days:
   - date: 2024-10-04
     events:
       "**Lecture 15**{: .label .label-lec} The Normal Distribution Part II ":
+      "**Participation**{: .label .label-parti} Data Project GSI Check-In ":
       
 ---

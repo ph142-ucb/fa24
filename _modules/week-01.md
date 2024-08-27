@@ -14,5 +14,6 @@ days:
   - date: 2024-08-30
     events:
       "**Lecture 2**{: .label .label-lec} Working with Data in R and Rstudio ":
+      "**Quiz 1**{: .label .label-quiz}":
       
 ---
