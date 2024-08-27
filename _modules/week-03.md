@@ -3,7 +3,7 @@ title: Week 3
 days:
   - date: 2024-09-09
     events:
-      "**No Class: Labor Day**":
+      "**No Lecture**{: .label .label-lec} **Labor Day**":
   - date: 2024-09-11
     events:
       "**Lecture 6**{: .label .label-lec} Introduction to Regression ": 
