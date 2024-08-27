@@ -12,5 +12,5 @@ days:
   - date: 2024-10-25
     events:
       "**Exam**{: .label .label-exam} **Midterm 2**":
-      "**No Lecture**{: .label .label-lec}":
+      "**No Lecture**{: .label .label-purple}":
 ---
