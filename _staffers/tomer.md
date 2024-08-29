@@ -6,7 +6,7 @@ website:
 photo: https://ph142-ucb.github.io/fa24/img/tomer.jpg
 ---
 
-**Office Hours:** TBD or [Remotely](https://berkeley.zoom.us/j/...)
+**Office Hours:** [Remotely](https://berkeley.zoom.us/j/94427776347?pwd=wxirht5upbcTRNEMhQKPEgRfinJ0Uk.1) on Tuesdays from 5-6pm (pwd:548025)
 
 Tomer Altman is a Lecturer in the Biostatistics Division of the School
 of Public Health, and in the College of Chemistry. He completed his
