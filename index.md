@@ -25,7 +25,7 @@ We will not be updating this page with announcements. For the latest announcemen
 ## Important Information
 
 - **Lectures**: Monday, Wednesday, & Friday, 8:00 to 9:00 AM PST
-- **Location**: Internet/Online [Zoom Link](https://berkeley.zoom.us/j/94717996924)
+- **Location**: Internet/Online [Zoom Link](https://berkeley.zoom.us/s/95632072932)
 - **Content**: Please refer to the [course schedule]({{ site.baseurl }}/course-schedule)
 - **Course number**: 30519
 - **Email for non-content inquiries**: [ph142fa24@berkeley.edu](mailto:ph142fa24@berkeley.edu)

@@ -13,6 +13,6 @@ days:
       
   - date: 2024-08-30
     events:
-      "**Lecture 2**{: .label .label-lec} [Working with Data in R and RStudio](https://ph142-ucb.github.io/fa24/src/lec/002_Working-with-data.pdf) ":
+      "**Lecture 2**{: .label .label-lec} [Working with Data in R and RStudio](https://ph142-ucb.github.io/fa24/src/lec/002_Working-with-data.pdf) [(New Lecture Link)](https://berkeley.zoom.us/s/95632072932)":
       
 ---
