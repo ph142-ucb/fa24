@@ -9,8 +9,8 @@ days:
     events:
       "**Lecture 3**{: .label .label-lec} Visualizing Data in R and RStudio ": 
         "Ch. 1 & 2"
-      "**Lab 2**{: .label .label-lab} Visualization of Global Cesarean Delivery Rates (Due Sept 6th)":
-      "**Homework 2**{: .label .label-hw}": 
+      "**Lab 2**{: .label .label-lab} [Visualization of Global Cesarean Delivery Rates](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main) (Due Sept 6th)":
+      "**Homework 2**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main)": 
       
   - date: 2024-09-06
     events:
