@@ -14,7 +14,7 @@ days:
       
   - date: 2024-09-06
     events:
-      "**Lecture 4**{: .label .label-lec} [Visualizing Distributions for One Variable](https://ph142-ucb.github.io/fa24/src/lec/Lec-4A_Visualizing-distributions.pdf) ; [Numerically Summarizing Spread and Central Tendency](https://ph142-ucb.github.io/fa24/src/lec/Lec4B_Summarizing-distributions.pdf) ":
+      "**Lecture 4**{: .label .label-lec} [Visualizing Distributions for One Variable](https://ph142-ucb.github.io/fa24/src/lec/Lec-4A_Visualizing-distributions.pdf) ; [Numerically Summarizing Spread and Central Tendency](https://ph142-ucb.github.io/fa24/src/lec/Lec4B_Summarizing-distributions.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/ZBRfOb71e9QL_ojev33zIBZIsDKmGY8bafVMAA5jM2DPUu57yWjHDtY2MWnfNQpd.YcKhH4xkwxZtKY_v) ":
       "**Quiz 1**{: .label .label-quiz} Due 11:59pm on [Gradescope](https://www.gradescope.com/courses/833518)":
       
 ---
