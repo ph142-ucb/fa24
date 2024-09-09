@@ -17,5 +17,6 @@ days:
     events:
       "**Lecture 7**{: .label .label-lec} Two-way Tables ":
         "Ch. 5"
+      "**Quiz 2**{: .label .label-quiz} Due 11:59pm on [Gradescope](https://www.gradescope.com/courses/833518)":
       
 ---

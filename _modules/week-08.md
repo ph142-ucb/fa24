@@ -5,6 +5,7 @@ days:
     events:
       "**Lecture 19**{: .label .label-lec} Confidence Intervals for a Mean with Known Standard Deviation ":
         "Ch. 14"
+        
   - date: 2024-10-16
     events:
       "**Lecture 20**{: .label .label-lec} Hypothesis Tests for a Mean with Known Standard Deviation ": 

@@ -5,10 +5,13 @@ days:
     events:
       "**Lecture 8**{: .label .label-lec} Samples and Observational Studies ":
         "Ch. 6"
+
   - date: 2024-09-18
     events:
-      "**Lecture 9**{: .label .label-lec} Live Exercise: Sampling Births from US Territories ": 
-      "**Lab**{: .label .label-lab} Midterm 1 Review Session ":
+      "**Lecture 9**{: .label .label-lec} Live Exercise: Sampling Births from US Territories ":
+      "**Lab 4**{: .label .label-lab} Screening and Precision Public Health (Due Sept 20th)":
+      "**Homework 4**{: .label .label-hw}": 
+
   - date: 2024-09-20
     events:
       "**Lecture 10**{: .label .label-lec} Designing Experiments ":

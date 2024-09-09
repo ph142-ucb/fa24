@@ -3,7 +3,9 @@ title: Week 6
 days:
   - date: 2024-09-30
     events:
-      "**Lecture 13**{: .label .label-lec} General Rules of Probability cont. ":
+      "**Exam**{: .label .label-exam} **Midterm 1**":
+      "**No Lecture**{: .label .label-purple}":
+
   - date: 2024-10-02
     events:
       "**Lecture 14**{: .label .label-lec} The Normal Distribution Part I ": 
