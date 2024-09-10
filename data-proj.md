@@ -34,8 +34,6 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 **Due dates:** 
 
-- **Confirmation Checklist is due February 16th at 11:59 pm PST**
-
 - **Part I is due on October 11th at 10:00 PM PST**
 - **Part II is due on November 8th at 11:59 PM PST**
 - **Part III is due on December 6th at 12:00 PM PST (noon)**
