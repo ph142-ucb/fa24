@@ -3,7 +3,7 @@ title: Week 3
 days:
   - date: 2024-09-09
     events:
-      "**Lecture 5**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/fa24/src/lec/Lec5_Exploring-relationships.html) [(Recording)](https://berkeley.zoom.us/rec/share/BHab0zYfsfOrGx2xdYWcZbjxEa5nXldAQgdEFeu6rpcBcS2hEhm3LApnLlDQHv1S.cv6pgFdMg2_STp1h)":
+      "**Lecture 5**{: .label .label-lec} [Exploring Relationships Between Two Variables](https://ph142-ucb.github.io/fa24/src/lec/Lec5_Exploring-relationships.html) [(Recording)](https://berkeley.zoom.us/rec/share/1SdXB6QGZH5YCCc4ELWwPth3SLSfCaoWdyoVQSGkvjUNpemrtxGS8Q8BVMrmPXJl._se32B9SYAOVawvN)":
         "Ch. 3"
 
   - date: 2024-09-11
