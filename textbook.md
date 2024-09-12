@@ -16,7 +16,6 @@ PH 142 students are able to access a digital copy of the course textbook from Eb
 - **Access** ["The Practice of Statistics in the Life Sciences"](https://search.library.berkeley.edu/view/action/uresolver.do?operation=resolveService&package_service_id=25016762360006532&institutionId=6532&customerId=6530&VE=true) **online**
 
 **If your options are for limited chapters or only to loan the physical book:** 
-
 To access the textbook and other licensed resources from the university when off-campus, follow these quick instructions to set up a [Libproxy](https://guides.lib.berkeley.edu/ezproxy).
 
 ----------
