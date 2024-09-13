@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2024-09-30
     events:
-      "**Exam**{: .label .label-exam} **Midterm 1**":
+      "**Exam**{: .label .label-exam} **Midterm 1 (Remote)**":
       "**No Lecture**{: .label .label-purple}":
 
   - date: 2024-10-02
