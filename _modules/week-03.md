@@ -15,7 +15,7 @@ days:
       
   - date: 2024-09-13
     events:
-      "**Lecture 7**{: .label .label-lec} Two-way Tables ":
+      "**Lecture 7**{: .label .label-lec} [Two-way Tables](https://ph142-ucb.github.io/fa24/src/lec/Lec7_Two-way-tables.html) ":
         "Ch. 5"
       "**Quiz 2**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
       
