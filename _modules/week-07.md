@@ -9,7 +9,7 @@ days:
   - date: 2024-10-09
     events:
       "**Lecture 17**{: .label .label-lec} The Poisson Distribution ":
-      "**Lab 6**{: .label .label-lab} Screening and Precision Public Health (Due Oct 11th)":
+      "**Lab 6**{: .label .label-lab} Independence, Screening, and Normal Distribution (Due Oct 11th)":
       "**Homework 6**{: .label .label-hw}": 
       
   - date: 2024-10-11
