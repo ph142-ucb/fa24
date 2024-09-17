@@ -3,7 +3,7 @@ title: Week 4
 days:
   - date: 2024-09-16
     events:
-      "**Lecture 8**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/fa24/src/lec/Lec-8-_ObservationalStudies.html) ":
+      "**Lecture 8**{: .label .label-lec} [Samples and Observational Studies](https://ph142-ucb.github.io/fa24/src/lec/Lec-8-_ObservationalStudies.html) [(Fa21 Recording pt.1)](https://www.youtube.com/watch?v=3Olm5zGNI68) [(Fa21 Recording pt.2)](https://www.youtube.com/watch?v=8Js9rdq6dQs)":
         "Ch. 6"
 
   - date: 2024-09-18
