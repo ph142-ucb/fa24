@@ -3,5 +3,9 @@ title: Week 17
 days:
   - date: 2024-12-16
     events:
-      "**Exam**{: .label .label-exam} **Final Exam**":
+      "**No Lecture**{: .label .label-purple}":
+      
+  - date: 2024-12-18
+    events:
+      "**Exam**{: .label .label-exam} **Final Exam** 11:30am-2:30pm":
 ---
