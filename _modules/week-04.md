@@ -14,7 +14,7 @@ days:
 
   - date: 2024-09-20
     events:
-      "**Lecture 10**{: .label .label-lec} [Designing Experiments](https://ph142-ucb.github.io/fa24/src/lec/Lec10_Designing-experiments_slides.pdf) [(Annotation)](https://ph142-ucb.github.io/fa24/src/lec/Lec10_Designing-experiments_handout.pdf)":
+      "**Lecture 10**{: .label .label-lec} [Designing Experiments](https://ph142-ucb.github.io/fa24/src/lec/Lec10_Designing-experiments_slides.pdf) [(Annotation)](https://ph142-ucb.github.io/fa24/src/lec/Lec10_Designing-experiments_handout.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/qwjYxhn7sfCIlc-jnBjC3OM-9ti8GZVSGntcVf6LqFO5FF41BtjszDM3DR9IfqPb.kc7z7erGL5J9EuL5?startTime=1726844265000)":
         "Ch. 7"
       
 ---
