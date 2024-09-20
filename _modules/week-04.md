@@ -14,7 +14,7 @@ days:
 
   - date: 2024-09-20
     events:
-      "**Lecture 10**{: .label .label-lec} Designing Experiments ":
+      "**Lecture 10**{: .label .label-lec} [Designing Experiments](https://ph142-ucb.github.io/fa24/src/lec/Lec10_Designing-experiments_slides.pdf) [(Annotation)](https://ph142-ucb.github.io/fa24/src/lec/Lec10_Designing-experiments_handout.pdf)":
         "Ch. 7"
       
 ---
