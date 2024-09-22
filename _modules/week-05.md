@@ -15,4 +15,5 @@ days:
   - date: 2024-09-27
     events:
       "**Lecture 13**{: .label .label-lec} General Rules of Probability cont. ":
+      "**Quiz 4**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
 ---

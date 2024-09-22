@@ -17,4 +17,5 @@ days:
       "**Lecture 18**{: .label .label-lec} Sampling Distributions for a Mean and Proportion; Central Limit Theorem ":
         "Ch. 13"
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
+      "**Quiz 5**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
 ---

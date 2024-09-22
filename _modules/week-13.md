@@ -14,5 +14,6 @@ days:
     events:
       "**Lecture 34**{: .label .label-lec} Comparison of Many Means (ANOVA)":
         "Ch. 24"
+      "**Quiz 10**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
       
 ---

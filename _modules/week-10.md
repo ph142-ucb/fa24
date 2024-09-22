@@ -18,5 +18,6 @@ days:
       "**Lecture 26**{: .label .label-lec} Inference for a Population Proportion ":
         "Ch. 19"
       "**Participation**{: .label .label-parti} Data Project GSI Check-In":
+      "**Quiz 7**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
       
 ---

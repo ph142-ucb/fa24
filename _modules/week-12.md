@@ -15,4 +15,5 @@ days:
   - date: 2024-11-15
     events:
       "**Lecture 31**{: .label .label-lec} Permutation Tests ":
+      "**Quiz 9**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
 ---

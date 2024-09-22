@@ -16,5 +16,6 @@ days:
   - date: 2024-10-18
     events:
       "**Lecture 21**{: .label .label-lec} Power, Type I and Type II Error, Sample Size ":
+      "**Quiz 6**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
       
 ---
