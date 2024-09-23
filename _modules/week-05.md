@@ -3,7 +3,7 @@ title: Week 5
 days:
   - date: 2024-09-23
     events:
-      "**Lecture 11**{: .label .label-lec} Introduction to Probability ": 
+      "**Lecture 11**{: .label .label-lec} [Introduction to Probability](https://ph142-ucb.github.io/fa24/src/lec/Ch09_Intro-probability.html) [(Recording)](https://berkeley.zoom.us/rec/share/a-smzUV5jmZgp-rDh-wBhvSZTP09lQQk33XK1ejeGpZZLEVbqgTKxkIsLtM8KRcd.O1LPW6v361SQHQ59?startTime=1727103702000) ": 
         "Ch. 9"
 
   - date: 2024-09-25
