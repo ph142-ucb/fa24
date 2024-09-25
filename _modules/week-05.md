@@ -8,7 +8,7 @@ days:
 
   - date: 2024-09-25
     events:
-      "**Lecture 12**{: .label .label-lec} General Rules of Probability ":
+      "**Lecture 12**{: .label .label-lec} [General Rules of Probability](Lec-12_More-probability.pptx) [(Recording)](https://berkeley.zoom.us/rec/share/ApCP08jtYZ9G1YiPP9Hl88I0QGQQmbZuQE-Dvrt-y2_pkJrNvA6BimW5H08ZYXeh.9XikMD9qQ3SZK9l6) ":
         "Ch. 10"
       "**Lab**{: .label .label-lab} Midterm 1 Review Session ":
       
