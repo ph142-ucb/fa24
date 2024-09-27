@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2024-09-30
     events:
-      "**Exam**{: .label .label-exam} **Midterm 1 (Remote)**":
+      "**Exam**{: .label .label-exam} **[Midterm 1](https://edstem.org/us/courses/63660/discussion/5305113) (Remote)**":
       "**No Lecture**{: .label .label-purple}":
 
   - date: 2024-10-02
