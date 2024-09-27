@@ -8,12 +8,12 @@ days:
 
   - date: 2024-09-25
     events:
-      "**Lecture 12**{: .label .label-lec} [General Rules of Probability](Lec-12_More-probability.pptx) [(Recording)](https://berkeley.zoom.us/rec/share/ApCP08jtYZ9G1YiPP9Hl88I0QGQQmbZuQE-Dvrt-y2_pkJrNvA6BimW5H08ZYXeh.9XikMD9qQ3SZK9l6) ":
+      "**Lecture 12**{: .label .label-lec} [General Rules of Probability](https://ph142-ucb.github.io/fa24/src/lec/Lec-12_More-probability.pptx) [(Recording)](https://berkeley.zoom.us/rec/share/ApCP08jtYZ9G1YiPP9Hl88I0QGQQmbZuQE-Dvrt-y2_pkJrNvA6BimW5H08ZYXeh.9XikMD9qQ3SZK9l6) ":
         "Ch. 10"
       "**Lab**{: .label .label-lab} Midterm 1 Review Session ":
       
   - date: 2024-09-27
     events:
-      "**Lecture 13**{: .label .label-lec} General Rules of Probability cont. ":
+      "**Lecture 13**{: .label .label-lec} [General Rules of Probability cont.](https://ph142-ucb.github.io/fa24/src/lec/Lec13_moreProbSlides.pdf)[(annotated slides)](https://ph142-ucb.github.io/fa24/src/lec/Lec13_moreProbNotes.pdf) [(supplemental)](https://ph142-ucb.github.io/fa24/src/lec/Lec13_SupplementalMatProbRules.pdf) ":
       "**Quiz 4**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
 ---
