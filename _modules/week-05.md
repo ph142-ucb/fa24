@@ -14,6 +14,6 @@ days:
       
   - date: 2024-09-27
     events:
-      "**Lecture 13**{: .label .label-lec} [General Rules of Probability cont.](https://ph142-ucb.github.io/fa24/src/lec/Lec13_moreProbSlides.pdf)[(annotated slides)](https://ph142-ucb.github.io/fa24/src/lec/Lec13_moreProbNotes.pdf) [(supplemental)](https://ph142-ucb.github.io/fa24/src/lec/Lec13_SupplementalMatProbRules.pdf) ":
+      "**Lecture 13**{: .label .label-lec} [General Rules of Probability cont.](https://ph142-ucb.github.io/fa24/src/lec/Lec13_moreProbSlides.pdf)[(annotated slides)](https://ph142-ucb.github.io/fa24/src/lec/Lec13_moreProbNotes.pdf) [(supplemental)](https://ph142-ucb.github.io/fa24/src/lec/Lec13_SupplementalMatProbRules.pdf) [(Recording)](https://berkeley.zoom.us/rec/share/sO9TivZA4MwpnpQMBh0uu65eitqBJBo_71meuiBBZUP98RvHtWqApG59dsJr6xPB.SMHMk7zTZpSjpOAi)":
       "**Quiz 4**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
 ---
