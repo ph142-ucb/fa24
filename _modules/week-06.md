@@ -10,8 +10,8 @@ days:
     events:
       "**Lecture 14**{: .label .label-lec} The Normal Distribution Part I ": 
         "Ch. 11"
-      "**Lab 5**{: .label .label-lab} Probability Practice (Due Oct 4th)":
-      "**Homework 5**{: .label .label-hw}":
+      "**Lab 5**{: .label .label-lab} [Probability Practice](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main) (Due Oct 4th)":
+      "**Homework 5**{: .label .label-hw}(on Datahub)":
       
   - date: 2024-10-04
     events:
