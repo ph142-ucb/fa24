@@ -15,7 +15,7 @@ days:
       
   - date: 2024-10-04
     events:
-      "**Lecture 15**{: .label .label-lec} [The Normal Distribution Part II](https://ph142-ucb.github.io/fa24/src/lec/Lec15_Normal-distn-II.html) ":
+      "**Lecture 15**{: .label .label-lec} [The Normal Distribution Part II](https://ph142-ucb.github.io/fa24/src/lec/Lec15_Normal-distn-II.html) [(Recording)](https://berkeley.zoom.us/rec/share/_Zx612I2wSse7aAW-acMwFPoTwOciTDyQKmRmzyvCIppkKxlcnKebzg6hFzMrYJQ.M1DiIuPbOxaUjJ53)":
       "**Participation**{: .label .label-parti} Data Project GSI Check-In ":
       
 ---
