@@ -11,7 +11,7 @@ days:
       "**Lecture 14**{: .label .label-lec} [The Normal Distribution Part I](https://ph142-ucb.github.io/fa24/src/lec/Lec14_Normal-distn.html) [(Recording)](https://berkeley.zoom.us/rec/share/xQ2yoksKXL_U_5eHRN6UDXv61WKnnqbBtg5jzAkGON7FKhnNCz7V5mkCGWiZ9pQ.ir_sxrGoEdFbdlYO) ": 
         "Ch. 11"
       "**Lab 5**{: .label .label-lab} [Probability Practice](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main) (Due Oct 4th)":
-      "**Homework 5**{: .label .label-hw}(on Datahub)":
+      "**Homework 5**{: .label .label-hw}[on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main)":
       
   - date: 2024-10-04
     events:
