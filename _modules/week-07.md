@@ -5,7 +5,7 @@ days:
     events:
       "**Lecture 16**{: .label .label-lec} [The Binomial Distribution](https://ph142-ucb.github.io/fa24/src/lec/Lec16_Discrete-distns.html) [(Recording)](https://berkeley.zoom.us/rec/share/XKSdcMcXk3KH1WW3w6hp-MMAiIyvlRUtqX1Bj4SNqsnJ7AiVQN_Y2AuOCI1lCsT5.et0RMfUK1h6hkcmb) ":
         "Ch. 12"
-      "**Participation**{: .label .label-parti} Mid Semester Feedback Survey ":
+      "**Participation**{: .label .label-parti} [Mid Semester Feedback Survey](https://forms.gle/Nw4hVszX9ffdsnQd6) ":
   - date: 2024-10-09
     events:
       "**Lecture 17**{: .label .label-lec} The Poisson Distribution ":
