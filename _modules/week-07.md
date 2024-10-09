@@ -8,7 +8,7 @@ days:
       "**Participation**{: .label .label-parti} [Mid Semester Feedback Survey](https://forms.gle/Nw4hVszX9ffdsnQd6) ":
   - date: 2024-10-09
     events:
-      "**Lecture 17**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/fa24/src/lec/Lec17_Poisson-distrn.html) ":
+      "**Lecture 17**{: .label .label-lec} [The Poisson Distribution](https://ph142-ucb.github.io/fa24/src/lec/Lec17_Poisson-distrn.html) [(Recording)](https://berkeley.zoom.us/rec/share/G49ZWvnm-yudPCOyCI04RPNDtZoi5EBW3GSXOdkMMXbG5EYHB393saN9U3WCDpdP.sviVfUuTCI3_gQNM)":
       "**Lab 6**{: .label .label-lab} [Independence, Screening, and Normal Distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main) (Due Oct 11th)":
       "**Homework 6**{: .label .label-hw} [On Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main)": 
       
