@@ -13,7 +13,7 @@ days:
 
   - date: 2024-10-25
     events:
-      "**Exam**{: .label .label-exam} **Midterm 2: In-Person**":
-      "**No Lecture**{: .label .label-purple}":
+      "**Lecture 24**{: .label .label-lec} Comparing Two Means ":
+        "Ch. 18"
 
 ---

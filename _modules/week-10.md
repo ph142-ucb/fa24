@@ -3,8 +3,8 @@ title: Week 10
 days:
   - date: 2024-10-28
     events:
-      "**Lecture 24**{: .label .label-lec} Comparing Two Means ":
-        "Ch. 18"    
+      "**Exam**{: .label .label-exam} **Midterm 2: In-Person**":
+      "**No Lecture**{: .label .label-purple}":    
 
   - date: 2024-10-30
     events:
