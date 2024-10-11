@@ -14,7 +14,7 @@ days:
       
   - date: 2024-10-11
     events:
-      "**Lecture 18**{: .label .label-lec} [Sampling Distributions for a Mean and Proportion; Central Limit Theorem](https://ph142-ucb.github.io/fa24/src/lec/Lec18-_Sampling-distns.html)":
+      "**Lecture 18**{: .label .label-lec} [Sampling Distributions for a Mean and Proportion; Central Limit Theorem](https://ph142-ucb.github.io/fa24/src/lec/Lec18-_Sampling-distns.html) [(Recording)](https://berkeley.zoom.us/rec/share/nSEVgqZqjJYv-Jos-1UmLFLsDaDU6fsWy0qnsCMgs_vyIRtEx--2SEQdS2FX4Aib.00CbiPtC5HW-EgIn)":
         "Ch. 13"
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part I (Due 10:00 PM PST)":
       "**Quiz 5**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
