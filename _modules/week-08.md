@@ -3,7 +3,7 @@ title: Week 8
 days:
   - date: 2024-10-14
     events:
-      "**Lecture 19**{: .label .label-lec} [Confidence Intervals for a Mean with Known Standard Deviation](https://ph142-ucb.github.io/fa24/src/lec/Lec19_Intro-to-inference.html) ":
+      "**Lecture 19**{: .label .label-lec} [Confidence Intervals for a Mean with Known Standard Deviation](https://ph142-ucb.github.io/fa24/src/lec/Lec19_Intro-to-inference.html) [(Recording)](https://berkeley.zoom.us/rec/share/L9FTmiN6ugGeHhd6FeH_KDDPewJL5vc0VBPalTqnvQjLn39GPRe43h4SbOSL4hiv.G0B_3ts5tC3-he1r)":
         "Ch. 14"
         
   - date: 2024-10-16
