@@ -3,15 +3,15 @@ title: Week 8
 days:
   - date: 2024-10-14
     events:
-      "**Lecture 19**{: .label .label-lec} Confidence Intervals for a Mean with Known Standard Deviation ":
+      "**Lecture 19**{: .label .label-lec} [Confidence Intervals for a Mean with Known Standard Deviation](https://ph142-ucb.github.io/fa24/src/lec/Lec19_Intro-to-inference.html) ":
         "Ch. 14"
         
   - date: 2024-10-16
     events:
       "**Lecture 20**{: .label .label-lec} Hypothesis Tests for a Mean with Known Standard Deviation ": 
         "Ch. 15"
-      "**Lab 7**{: .label .label-lab} Confidence Intervals and P-Hacking (Due Oct 18th)":
-      "**Homework 7**{: .label .label-hw}":
+      "**Lab 7**{: .label .label-lab} [Normal, Binomial, and Poisson Distribution](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main) (Due Oct 18th)":
+      "**Homework 7**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main)":
       
   - date: 2024-10-18
     events:
