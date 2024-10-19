@@ -14,17 +14,17 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 - Note: Make sure to check in with your assigned GSI before the due date!
 - Please refer to the [Dataset Criteria](https://docs.google.com/document/d/1SHysgRhif8rXpsV-U62Urz91Tf5ozoyVCXgyg3hq484/edit?usp=sharing) to ensure you are using a valid dataset!
-- You can find the rubric for Part 1 of the Data Project [here](https://docs.google.com/document/d/1_9VLmLDYjhxRNm4tJaLvnecZ61H8Am9U5TVKglhvdAs/edit).
+- You can find the rubric for Part 1 of the Data Project [here](https://docs.google.com/document/d/16dnp8BAYZoogcpz3Dd5cyTjoIO8LJLsKhkP6UQl_v6Y/edit?usp=sharing).
 
-<!--
 [Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/fa24/src/dp/part2-instructions.pdf) 
 
 - Note: Make sure to check in with your assigned GSI before the due date!
-- You can find the rubric for Part 2 of the Data Project [here](https://docs.google.com/document/d/12q6hWIeihG5R5G2Kvl7nCVb3VwdQMsdKumjyHptkR4s/edit?usp=sharing).
+- You can find the rubric for Part 2 of the Data Project [here](https://docs.google.com/document/d/1YEm8zp7BV91gXvGwrSMehxknMUSDJXDX1zq5rZ8dGWU/edit?usp=sharing).
 
 ## Data Skills Demonstration Project Part II
-<iframe src="https://ph142-ucb.github.io/fa24/src/dp/part2-instructions_fa24.pdf" width="100%" height="800"></iframe> 
+<iframe src="https://ph142-ucb.github.io/fa24/src/dp/part2-instructions.pdf" width="100%" height="800"></iframe> 
 
+<!--
 [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa24/src/dp/part3-instructions.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/1bbfUH-jNchqAgElcLBRzL5lMizuU0RZPJfP4yUQbhXY/edit?usp=sharing).

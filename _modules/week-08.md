@@ -15,7 +15,7 @@ days:
       
   - date: 2024-10-18
     events:
-      "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size](https://ph142-ucb.github.io/fa24/src/lec/Lec21_Inference-in-practice.html) ":
+      "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size](https://ph142-ucb.github.io/fa24/src/lec/Lec21_Inference-in-practice.html) [(Recording)](https://berkeley.zoom.us/rec/share/ezIoVRwH7o-estwNJi6MFhlXTftoqBYYngameg01jyMYHGG5o_ml6ymB4fqTGLxs.XL2sBKnAwzqi20CN)":
       "**Quiz 6**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
       
 ---
