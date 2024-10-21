@@ -3,7 +3,7 @@ title: Week 9
 days:
   - date: 2024-10-21
     events:
-      "**Lecture 22**{: .label .label-lec} Power, Type I and Type II Error, Sample Size Cont. ":
+      "**Lecture 22**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size Cont.](https://ph142-ucb.github.io/fa24/src/lec/Lec21_Inference-in-practice.html) ":
         "Ch. 17"
 
   - date: 2024-10-23
