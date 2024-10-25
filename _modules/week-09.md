@@ -13,7 +13,7 @@ days:
 
   - date: 2024-10-25
     events:
-      "**Lecture 24**{: .label .label-lec} Comparing Two Means ":
+      "**Lecture 24**{: .label .label-lec} [Comparing Two Means](https://ph142-ucb.github.io/fa24/src/lec/Lec_24_Comparing-two-means.html) ":
         "Ch. 18"
 
 ---
