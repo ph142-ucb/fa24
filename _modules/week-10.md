@@ -10,8 +10,8 @@ days:
     events:
       "**Lecture 25**{: .label .label-lec} Matched Comparisons ": 
         "Ch. 17"
-      "**Lab 8**{: .label .label-lab} T-Tests (Due Nov 1st)":
-      "**Homework 8**{: .label .label-hw}":
+      "**Lab 8**{: .label .label-lab} [T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main) (Due Nov 1st)":
+      "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main) ":
       
   - date: 2024-11-01
     events:
