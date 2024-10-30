@@ -8,7 +8,7 @@ days:
 
   - date: 2024-10-30
     events:
-      "**Lecture 25**{: .label .label-lec} Matched Comparisons ": 
+      "**Lecture 25**{: .label .label-lec} [Matched Comparisons](https://ph142-ucb.github.io/fa24/src/lec/Lec_25_Paired-t-test.html) [(Recording)](https://berkeley.zoom.us/rec/share/SmQesiHb6siRn1EBvTRoT8RB6ctuPBNU9wYhHtaNmrzYik4RpX79jTDgqOhNq961.t79EIbWKZ2hN_MxU)": 
         "Ch. 17"
       "**Lab 8**{: .label .label-lab} [T-Tests](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main) (Due Nov 1st)":
       "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main) ":
