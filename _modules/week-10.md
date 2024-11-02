@@ -15,7 +15,7 @@ days:
       
   - date: 2024-11-01
     events:
-      "**Lecture 26**{: .label .label-lec} Inference for a Population Proportion ":
+      "**Lecture 26**{: .label .label-lec} [Inference for a Population Proportion](https://ph142-ucb.github.io/fa24/src/lec/Lec26_Inference-population-proportion.html) [(Recording)](https://berkeley.zoom.us/rec/share/v_tdV2gd1vOUiY8Y9YtWqCpA8AKoszWDUk4lEbtXeg1q-1_nCiD-FXZGG4eYFkXK.umyZXGcIRwjgqJ50)":
         "Ch. 19"
       "**Participation**{: .label .label-parti} Data Project GSI Check-In":
       "**Quiz 7**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
