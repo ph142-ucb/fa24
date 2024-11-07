@@ -8,7 +8,7 @@ days:
         
   - date: 2024-11-06
     events:
-      "**Lecture 28**{: .label .label-lec} [Bootstrapping Confidence Intervals](https://ph142-ucb.github.io/fa24/src/lec/Lec28_bootstrapping.html) ":
+      "**Lecture 28**{: .label .label-lec} [Bootstrapping Confidence Intervals](https://ph142-ucb.github.io/fa24/src/lec/Lec28_bootstrapping.html) [(Recording)](https://berkeley.zoom.us/rec/share/49tZZV7tn_XiHEaZOrvUY_JEKEE13drzhu3-uOFWkhaPa_-Df362w-oJF9NSD-eK.HfGpiSACJ7pIvr5F)":
       "**Lab 9**{: .label .label-lab} [Inference for Proportions](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main) (Due Nov 8th)":
       "**Homework 9**{: .label .label-hw} [(On Datahub)](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main)": 
       
