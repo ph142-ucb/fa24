@@ -14,7 +14,7 @@ days:
       
   - date: 2024-11-08
     events:
-      "**Lecture 29**{: .label .label-lec} The Chi-square Test for Goodness of Fit ":
+      "**Lecture 29**{: .label .label-lec} [The Chi-square Test for Goodness of Fit](https://ph142-ucb.github.io/fa24/src/lec/Lec29_Inference-categorical-var-greater-than-2-levels.html) ":
         "Ch. 21"  
       "**Data Project**{: .label .label-proj} Data Skills Demonstration Part II (Due 10:00 PM PST)":
       "**Quiz 8**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
