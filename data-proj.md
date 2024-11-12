@@ -24,11 +24,9 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 ## Data Skills Demonstration Project Part II
 <iframe src="https://ph142-ucb.github.io/fa24/src/dp/part2_instructions.pdf" width="100%" height="800"></iframe> 
 
-<!--
 [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa24/src/dp/part3-instructions.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
-- You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/1bbfUH-jNchqAgElcLBRzL5lMizuU0RZPJfP4yUQbhXY/edit?usp=sharing).
--->
+- You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/15YQn9pnG8ZcGqQkQ0hmiCousDKyeqLB0rUNO4r5grlE/edit?usp=sharing).
 
 <hr>
 
@@ -36,7 +34,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 - **Part I is due on October 11th at 10:00 PM PST**
 - **Part II is due on November 8th at 11:59 PM PST**
-- **Part III is due on December 6th at 12:00 PM PST (noon)**
+- **Part III is due on December 6th at 10:00 PM PST**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
