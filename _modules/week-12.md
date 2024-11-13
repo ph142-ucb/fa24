@@ -7,7 +7,7 @@ days:
     
   - date: 2024-11-13
     events:
-      "**Lecture 30**{: .label .label-lec} The Chi-square Test for Two-way Tables ":
+      "**Lecture 30**{: .label .label-lec} [The Chi-square Test for Two-way Tables](https://ph142-ucb.github.io/fa24/src/lec/Lec30_Inference-two-way-tables.html) ":
         "Ch. 22"
       "**Lab 10**{: .label .label-lab} [Chi-Squared Testing](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main) (Due Nov 15th)":
       "**Homework 10**{: .label .label-hw} [(On Datahub)](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa24&urlpath=rstudio%2F&branch=main)": 
