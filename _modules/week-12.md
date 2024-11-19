@@ -14,6 +14,6 @@ days:
       
   - date: 2024-11-15
     events:
-      "**Lecture 31**{: .label .label-lec} [Permutation Tests](https://ph142-ucb.github.io/fa24/src/lec/Lec31_Permutation-Tests.html) ":
+      "**Lecture 31**{: .label .label-lec} [Permutation Tests](https://ph142-ucb.github.io/fa24/src/lec/Lec31_Permutation-Tests.html) [(Recording)](https://berkeley.zoom.us/rec/share/NRDT5H3HlOOjw577-99iXYd8oERfiZp-EjhPJX7VhZLEQPCYx_tU7iTlRSKlDSBJ.3fTWa2yxblyZlRR-)":
       "**Quiz 9**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
 ---
