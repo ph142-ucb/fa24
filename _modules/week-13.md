@@ -13,7 +13,7 @@ days:
       
   - date: 2024-11-22
     events:
-      "**Lecture 34**{: .label .label-lec} [Comparison of Many Means (ANOVA)](https://ph142-ucb.github.io/fa24/src/lec/Lec34_ANOVA.html)":
+      "**Lecture 34**{: .label .label-lec} [Comparison of Many Means (ANOVA)](https://ph142-ucb.github.io/fa24/src/lec/Lec34_ANOVA.html)[(Recording)](https://berkeley.zoom.us/rec/share/7X5wJet84PBQvt-O0wle9M-clo7BMixMdg8Kg4P8G3XMaAVSTIMDWU27mFoy7MRC.N2t24tCiIGUpd0T8)":
         "Ch. 24"
       "**Quiz 10**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/833518)":
       
