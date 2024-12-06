@@ -14,4 +14,4 @@ days:
      "**Data Project**{: .label .label-proj} Data Skills Demonstration Part III (Due 10:00 PM PST)":
      "**Extra Credit**{: .label .label-green} Due: Statistics is Everywhere":
      "**Extra Credit**{: .label .label-green} Submit Course Evaluation screenshots (Due Sunday Dec. 8th) ":
-     ---
+---
